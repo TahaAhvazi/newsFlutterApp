@@ -1,6 +1,6 @@
 # blog
 
-A new Flutter project.
+A new Flutter project called news app woth Django rest framework (Drf) backend.
 
 ## Getting Started
 
