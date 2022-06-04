@@ -4,6 +4,8 @@ A new Flutter project called news app woth Django rest framework (Drf) backend.�
 Here is the severside source code: ✌️
 https://github.com/TahaAhvazi/newsApp-backend
 
+Hope you enjoy this!
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
